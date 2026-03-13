@@ -63,10 +63,11 @@ Quick reference guide with:
 - **Policies** (💜 Purple): Automated business rules
 - **Hotspots** (🩷 Pink): Issues or unclear areas
 - **External Systems** (🟩 Green): Third-party integrations
+- **Read Model** (📖 Light Blue): Data views optimized for queries
 - **Bounded Contexts** (Large post-its): Microservice candidates
 
 ### Workshop Flow
-1. Event Discovery → 2. Timeline Ordering → 3. Add Commands → 4. Add Aggregates → 5. Add Policies → 6. Identify Bounded Contexts
+1. Event Discovery → 2. Timeline Ordering → 3. Add Commands → 4. Add Aggregates → 5. Add Policies → 5.5. Identify Read Models → 6. Identify Bounded Contexts
 
 ## Usage Guidelines
 

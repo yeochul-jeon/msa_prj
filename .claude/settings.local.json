@@ -1,7 +1,18 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\ndocs: 프론트엔드 개발팀 이벤트 스토밍 가이드 추가\n\niOS, Android, Web 팀 대상 워크샵 퍼실리테이터 가이드:\n- UI 이벤트 vs 비즈니스 이벤트 구분 기준\n- 멀티 플랫폼 이벤트 추상화 방법\n- 프론트엔드 팀 흔한 실수 TOP 7 및 교정 방법\n- 퍼실리테이터 실전 스크립트\n- 도메인별 이벤트 예시 모음\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "mcp__plugin_serena_serena__list_dir",
+      "mcp__plugin_serena_serena__activate_project",
+      "Bash(git commit:*)",
+      "Bash(ls:*)",
+      "Bash(wc:*)",
+      "Bash(find /Users/cjenm/project/msa_prj_2025_claude -type f \\\\\\( -name \"*.html\" -o -name \"*.tsx\" -o -name \"*.jsx\" -o -name \"*.ts\" -o -name \"*.js\" -o -name \"*.java\" -o -name \"*.kt\" \\\\\\) 2>/dev/null | head -20)",
+      "Bash(find /Users/cjenm/harness/knowledge/물류 -type f -name \"*.md\" -o -name \"*.txt\" -o -name \"*.pdf\" -o -name \"*.doc*\" 2>/dev/null | head -100)",
+      "Bash(git status:*)"
     ]
   }
 }
