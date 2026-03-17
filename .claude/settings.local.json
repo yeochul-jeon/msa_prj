@@ -12,7 +12,15 @@
       "Bash(wc:*)",
       "Bash(find /Users/cjenm/project/msa_prj_2025_claude -type f \\\\\\( -name \"*.html\" -o -name \"*.tsx\" -o -name \"*.jsx\" -o -name \"*.ts\" -o -name \"*.js\" -o -name \"*.java\" -o -name \"*.kt\" \\\\\\) 2>/dev/null | head -20)",
       "Bash(find /Users/cjenm/harness/knowledge/물류 -type f -name \"*.md\" -o -name \"*.txt\" -o -name \"*.pdf\" -o -name \"*.doc*\" 2>/dev/null | head -100)",
-      "Bash(git status:*)"
+      "Bash(git status:*)",
+      "Bash(grep:*)",
+      "Bash(which npx:*)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Bash(npx -y @mermaid-js/mermaid-cli -i \"$f\" -o \"$f%.mmd.png\" -t default -b white -w 1200)",
+      "Bash(done)",
+      "Bash(npx:*)",
+      "Bash(chmod:*)"
     ]
   }
 }
