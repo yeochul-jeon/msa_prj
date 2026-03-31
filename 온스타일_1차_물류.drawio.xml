@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="cjics.cj.net" modified="2026-03-27T02:38:06.953Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" etag="bY1hD86yn37aWnWIpbBl" version="21.1.7" type="atlas">
+  <diagram id="-WxkC5ZAM-2D6OUwSuVE" name="Event Storming Board">
+    <mxGraphModel dx="1659" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-1" value="기초하기 등록되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-2" value="매입 마감을 진행했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-3" value="매입 여러 건으로 등록했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-4" value="매입 마감을 진행했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-5" value="택배사로부터 배송정보를 수신했다 (출고)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-6" value="택배사로부터 배송정보를 수신했다 (고객센터)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-7" value="회수요청이 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-8" value="회수지시가 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-9" value="회수집하가 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-10" value="회수확정이 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-11" value="영업비용 리스트업이 조회되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="250" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-12" value="출하지시가 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-13" value="운송장이 생성되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-14" value="배송정보불가 택배사로 전송되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-15" value="출고 SMS가 전송되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="220" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-16" value="택배사에 배송정보를 송신했다 (배송)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="220" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-17" value="배송에 완료되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-18" value="회수지시가 전송되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-19" value="회수확정이 취소되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-20" value="회수지시가 취소되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-21" value="배송지연 등록을 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="350" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-22" value="출하지시 취소가 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-23" value="운송장이 삭제되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="330" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-24" value="계좌 정보가 SAP로 I/F 되었다 (등록)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="350" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-25" value="출하지시 정보가 WMS I/F 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-26" value="택배사에 배송정보를 송신했다 (교환)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-27" value="WMS 전송이 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-28" value="출하지시 부여 대상 주문건을 조회하였다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-29" value="재고부족취소가 등록 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-30" value="배송도착서비스가 조회되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-31" value="안심번호가 해지되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="440" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-32" value="배송비 데이터를 집계했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-33" value="신규 택배사가 추가되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="430" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-34" value="택배단가가 등록되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="430" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-35" value="재고 확정이 되었다 (직매입)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-36" value="WMS에서 출고 처리를 하였다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-37" value="WMS로 전송되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="440" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-38" value="배송정보를 수신받았다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="530" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-39" value="주문이 출고 처리되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="540" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-40" value="회수집하기가 취소되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-41" value="출하 예정일이 관리되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="550" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-42" value="매입 현황을 조회했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-43" value="출고등록을 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-44" value="고객인수 등록을 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-45" value="가출고 등록이 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-46" value="(-) 매입 정보가 SAP로 I/F 되었다 (반품)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-47" value="원가값 집계 마감을 진행했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="550" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-48" value="회수가 집하되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="660" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-49" value="기타택배비가 등록되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="660" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-50" value="안심번호가 등록되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="690" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-51" value="분리포장등록을 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="670" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-52" value="배송도착서비스가 조회되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="680" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-53" value="원가값 마감을 진행했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="680" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-54" value="운송장이 등록되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="770" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-55" value="협력사 인수등록이 등록되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-56" value="회수 등록을 하였다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="630" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-57" value="전표가 생성되었다 (송금+대체)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="760" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-58" value="택배비 마감(정산)이 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="780" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-59" value="택배비 단가가 수정되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="770" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-60" value="택배비 검증이 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="760" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-61" value="주문에 고객인수가 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="780" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-62" value="재고 확정이 되었다 (직매입)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="810" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-63" value="택배사로부터 전송정보가 I/F 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="810" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-64" value="FU 재고이동전표를 생성했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="810" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-65" value="WMS 재고이동 처리를 진행했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qkNSIIrxAwGOp9v6hIU-66" value="물류 취합이 완료되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="850" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="cjics.cj.net" modified="2026-03-27T02:32:02.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" etag="ZTNyIaLXU8fbGtUqnp0p" version="21.1.7" type="atlas">
+  <diagram id="TGlgAV8BfLqEef3x7-Qb" name="Event Storming Board">
+    <mxGraphModel dx="2059" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-1" value="기획전 상품 목록을 확인한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-365" y="90" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-2" value="기획전 상세 정보를 확인한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-365" y="180" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-3" value="기획전 상품의 상세를 확인한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-365" y="270" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-4" value="기획전 쿠폰/혜택을 확인한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-365" y="360" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-5" value="영상 컨텐츠(기획전)를 감상한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-365" y="450" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-6" value="(프로모션 페이지 등에서) 브랜드 검색을 한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="80" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-7" value="검색 결과 브랜드 및 상품 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="170" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-8" value="검색 결과 브랜드 좋아요(찜) 등록" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="260" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-9" value="검색 결과 상품 상세 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="350" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-10" value="검색어를 입력" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="80" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-11" value="검색 버튼을 클릭한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="170" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-12" value="상품의 정렬을 변경한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="260" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-13" value="라이브 방송이 시작 되었다." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="320" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-14" value="라이브 방송에 참여했다." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="320" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-15" value="프로모션 영상 N초 시청했다. &lt;N초" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="90" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-16" value="영상 시청 이벤트에 응모 했다." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="180" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-17" value="라이브 방송 상품이 장바구니에 담겼다." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="270" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-18" value="MLC 방송 공유하기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="320" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-19" value="MLC 채팅 참여하기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="430" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-20" value="MLC 혜택 이벤트 참여 (구매인증 / 경품응모...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="540" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-21" value="유저 위치정보가 변경 되었다." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="650" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-22" value="로그인 한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="60" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-23" value="로그인 상태가 아니면 로그인 페이지로 이동 한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="140" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-24" value="로그아웃 한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="220" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-25" value="지문 로그인 관리 ON/OFF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="60" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-26" value="GA 이벤트가 전송되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="420" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-27" value="임프레션 태깅 정보 보냈다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="510" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-28" value="알림 신청 실패" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="660" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-29" value="알림 신청 완료" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="730" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-30" value="방송 알림을 신청했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="660" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-31" value="방송 알림을 신청 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="760" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-32" value="PGM 방송을 시청했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="660" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-33" value="오른쪽 하단 팝업을 통해 방송 시청" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="730" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-34" value="CJ ONE 로그인 한 기록 확인하기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="630" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-35" value="멤버십 포인트/기프트 카드 받았다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="700" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-36" value="전화로 상담을 신청한다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="770" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-37" value="교환/반품 신청" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="630" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-38" value="취소/교환/반품/환불 문의가 등록" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="700" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-39" value="리뷰 작성 완료" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="630" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-40" value="포토 리뷰 작성 완료" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="700" width="75" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-41" value="" style="endArrow=classic;html=1;strokeColor=#333333;fontSize=10;" parent="1" source="odGgy9j5LaP9LzEqMn2S-30" target="odGgy9j5LaP9LzEqMn2S-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-42" value="" style="endArrow=classic;html=1;strokeColor=#333333;fontSize=10;" parent="1" source="odGgy9j5LaP9LzEqMn2S-38" target="odGgy9j5LaP9LzEqMn2S-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-43" value="앱 실행하기" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A90D9;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="137.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-44" value="동영상 광고를 봤다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="427.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-45" value="이미지 광고를 봤다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="517.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-46" value="외부 유입 QR 코드" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="687.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-47" value="지표 유입 - Inflow Cd - UTM - 캠페인 코드" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="777.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-48" value="App Info 요청 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="37.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-49" value="Firebase Patch 진행했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="137.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-50" value="보안 API / 권한 / DB 접근했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="237.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-51" value="홈 메뉴 리스트 요청 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="327.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-52" value="홈탭 A/B TEST 세팅 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="427.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-53" value="모듈 리스트 요청 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="517.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-54" value="하단 상품 목록이 조회 되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="607.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-55" value="모듈 리스트 매칭" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="697.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-56" value="클라이언트에서 메인 팝업 노출이 필요하면 PIP 팝업 노출 시도" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="787.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-57" value="전면 배너/팝업 클릭 선택" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="37.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-58" value="스크롤 액션" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A90D9;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="147.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-59" value="스크롤을 내려 하단 상품이 노출됐다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="147.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-60" value="로그인에 성공했다 메인으로 돌아왔다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="347.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-61" value="홈탭 VIP관 배너 노출 확인했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="447.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-62" value="광고 상품/영상을 클릭했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="547.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-63" value="상품 상세에서 뒤로가기 홈탭으로 돌아왔다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="47.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-64" value="상품 상세에서 뒤로가기 종료했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="47.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-65" value="상품을 조회 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="47.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-66" value="상품을 불러오지 못했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="157.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-67" value="대기열을 생성했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="47.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-68" value="최근 본 상품이 목록에 추가됨" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="157.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-69" value="구매하기 버튼 클릭" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="47.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-70" value="상품 문의를 등록 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="157.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-71" value="쿠폰 다운로드" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="277.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-72" value="브랜드 찜을 했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="377.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-73" value="상품 찜/취소 하였다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="487.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-74" value="키워드를 검색하여 이벤트에 응모했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="587.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-75" value="상품을 장바구니에 담았다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="47.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-76" value="상품을 구매했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="147.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-77" value="주문이 요청되었다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="247.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-78" value="선물하기로 신청했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="347.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-79" value="이벤트를 응모했다 신청 완료 상태" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="787.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-80" value="프로모션 이벤트 신청 완료" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="787.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odGgy9j5LaP9LzEqMn2S-81" value="특집을 신청했다" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8C00;strokeColor=#666666;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="807.5" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
